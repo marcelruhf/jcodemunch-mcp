@@ -1,0 +1,28 @@
+src/jcodemunch_mcp/cli/init.py
+  s_2dde1cd1a52585::t_fc4b14c861cd54 1077-1084
+tests/test_copilot_hook.py
+  s_2dde1cd1a52585::t_f07e736c4ca3ed 43
+src/jcodemunch_mcp/cli/hooks.py
+  s_2dde1cd1a52585::t_fc4b14c861cd54 420-421,448-449,968-979
+tests/test_hook_steering_fixes.py
+  s_2dde1cd1a52585::t_f07e736c4ca3ed 133-154,412-413,419-440
+  s_2dde1cd1a52585::t_b6ab4e135d3f8f 441
+CHANGELOG.md
+  s_2dde1cd1a52585::t_80e8434ddd56f1 74-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "258eb52d4ad29bd844e1f0835aeb0657b1368ce6",
+  "prompts": {},
+  "sessions": {
+    "s_2dde1cd1a52585": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d93541c-613d-4074-a078-9392badebc0c",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
