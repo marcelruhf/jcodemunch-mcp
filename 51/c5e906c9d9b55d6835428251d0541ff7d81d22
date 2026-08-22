@@ -1,0 +1,61 @@
+src/jcodemunch_mcp/cli/hooks/landmarks.py
+  s_2dde1cd1a52585::t_3a861f64360de3 23-25
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-22,26-129
+tests/test_hook_steering_fixes.py
+  s_2dde1cd1a52585::t_0f692a7e85b631 48,117,194
+tests/test_copilot_hook.py
+  s_2dde1cd1a52585::t_0f692a7e85b631 35,51,60,66,72,83
+src/jcodemunch_mcp/cli/hooks/reindex.py
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-147
+src/jcodemunch_mcp/cli/hooks/_common.py
+  s_2dde1cd1a52585::t_3a861f64360de3 26
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-25,27-122
+src/jcodemunch_mcp/cli/hooks/steering.py
+  s_ca0a4d3cf2213d::t_fee22571c92602 81-82
+  s_2dde1cd1a52585::t_3a861f64360de3 144
+  s_2dde1cd1a52585::t_cdab6678fce6d5 29-35,37,277-278,280-286,288,292,296-299,304,306-312,314-328,331-333,336,339,341,343-345,347-348,350-351,354-356,358-359,362-363,365-373,376-383
+  s_ca0a4d3cf2213d::t_ee77d82f3246a5 213-215
+src/jcodemunch_mcp/cli/hooks/briefing.py
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-33,35-79,81-157,159-162
+  s_2dde1cd1a52585::t_3a861f64360de3 34,80,158
+tests/test_v1_108_199.py
+  s_2dde1cd1a52585::t_2db033dfae5699 32
+tests/test_hooks.py
+  s_2dde1cd1a52585::t_0f692a7e85b631 84,123,185,193,239,256,270,282,291,305,312,341,458,481,490,497,513,531,570
+tests/test_hook_output_channels.py
+  s_2dde1cd1a52585::t_0f692a7e85b631 89,116,131,143,199,231,237,247,262,279
+src/jcodemunch_mcp/cli/hooks/taskcomplete.py
+  s_2dde1cd1a52585::t_3a861f64360de3 41,51,67,90,104,122
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-40,42-50,52-66,68-89,91-103,105-121,123-169
+CLAUDE.md
+  s_2dde1cd1a52585::t_2272afcc6ed8e4 27
+src/jcodemunch_mcp/cli/hooks/__init__.py
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-24,26-27
+  s_2dde1cd1a52585::t_4df36eb1adbd7d 25,28
+src/jcodemunch_mcp/cli/hooks/snapshot.py
+  s_2dde1cd1a52585::t_cdab6678fce6d5 1-120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "51c5e906c9d9b55d6835428251d0541ff7d81d22",
+  "prompts": {},
+  "sessions": {
+    "s_2dde1cd1a52585": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d93541c-613d-4074-a078-9392badebc0c",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    },
+    "s_ca0a4d3cf2213d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1e9c5838-71b8-4802-8c8b-7debe18976dc",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
