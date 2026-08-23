@@ -1,0 +1,47 @@
+src/jcodemunch_mcp/storage/sqlite_store.py
+  s_152842eb4b1158::t_31f153727d4e65 2477
+  s_152842eb4b1158::t_c1a64b7f3a6bb1 2462-2476,2478-2488
+CHANGELOG.md
+  s_152842eb4b1158::t_5fb386675f929b 86-95
+tests/test_hook_steering_fixes.py
+  s_152842eb4b1158::t_32c123328fc760 146-161,371-420
+  s_152842eb4b1158::t_81ae98dec28af1 421-422
+src/jcodemunch_mcp/cli/hooks/taskcomplete.py
+  s_152842eb4b1158::t_b18a8914443a90 75
+src/jcodemunch_mcp/storage/transcript_roots.py
+  s_152842eb4b1158::t_b18a8914443a90 99-100
+src/jcodemunch_mcp/cli/hooks/briefing.py
+  s_152842eb4b1158::t_39bb234df752e7 137-142,144-146,148,150
+src/jcodemunch_mcp/cli/hooks/landmarks.py
+  s_152842eb4b1158::t_b18a8914443a90 48-50
+src/jcodemunch_mcp/cli/hooks/_common.py
+  s_152842eb4b1158::t_b18a8914443a90 158-190,194-195,201
+  s_152842eb4b1158::t_7dbaba0e593062 8,12
+  s_152842eb4b1158::t_280512335cce87 13,202
+src/jcodemunch_mcp/counter.py
+  s_152842eb4b1158::t_39bb234df752e7 37-60
+src/jcodemunch_mcp/cli/hooks/steering.py
+  s_152842eb4b1158::t_c1a64b7f3a6bb1 99-103,175-177
+src/jcodemunch_mcp/storage/index_store.py
+  s_152842eb4b1158::t_c1a64b7f3a6bb1 930-939
+src/jcodemunch_mcp/server.py
+  s_152842eb4b1158::t_39bb234df752e7 250-253,273-278
+tests/test_counter.py
+  s_152842eb4b1158::t_32c123328fc760 397-416
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "94b93e90bd3fea42d868aca8b2302201f785ac03",
+  "prompts": {},
+  "sessions": {
+    "s_152842eb4b1158": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb99b79c-52f1-4075-8951-c22bfa0f1aab",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
