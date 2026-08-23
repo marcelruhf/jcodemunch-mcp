@@ -1,0 +1,32 @@
+src/jcodemunch_mcp/cli/hooks/__init__.py
+  s_2dde1cd1a52585::t_29cfa850bc4e94 8-9
+src/jcodemunch_mcp/cli/hooks/landmarks.py
+  s_2dde1cd1a52585::t_29cfa850bc4e94 5,44,46,48-49,51,54-55
+src/jcodemunch_mcp/cli/hooks/snapshot.py
+  s_2dde1cd1a52585::t_cdab6678fce6d5 45
+  s_2dde1cd1a52585::t_29cfa850bc4e94 26,36,72
+src/jcodemunch_mcp/cli/hooks/_common.py
+  s_2dde1cd1a52585::t_dd0a33049c6e05 3-4,12-55,89-95,172-199
+src/jcodemunch_mcp/cli/hooks/steering.py
+  s_2dde1cd1a52585::t_dd0a33049c6e05 1-12,21
+src/jcodemunch_mcp/cli/hooks/reindex.py
+  s_2dde1cd1a52585::t_29cfa850bc4e94 8
+src/jcodemunch_mcp/cli/hooks/briefing.py
+  s_2dde1cd1a52585::t_29cfa850bc4e94 9,79-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "ead73abc84e15bbecb613724f63bb3de40b04477",
+  "prompts": {},
+  "sessions": {
+    "s_2dde1cd1a52585": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3d93541c-613d-4074-a078-9392badebc0c",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
