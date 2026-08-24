@@ -1,0 +1,35 @@
+tests/test_hook_steering_fixes.py
+  s_152842eb4b1158::t_3dd2cdf1538f9c 449,451-456,463-475
+  s_152842eb4b1158::t_73503f2e3bd794 19-21,190,488,499,615,622
+  s_152842eb4b1158::t_a1b979b2e81b3a 450,457-462
+src/jcodemunch_mcp/cli/hooks/landmarks.py
+  s_152842eb4b1158::t_412c441549a27b 32-39,52,57,59,90,94,96
+src/jcodemunch_mcp/cli/hooks/taskcomplete.py
+  s_152842eb4b1158::t_3dd2cdf1538f9c 17-19,146-148
+tests/test_hook_output_channels.py
+  s_152842eb4b1158::t_73503f2e3bd794 14-15,82
+src/jcodemunch_mcp/cli/hooks/__init__.py
+  s_152842eb4b1158::t_73503f2e3bd794 3-5,8-9,11
+tests/test_hooks.py
+  s_152842eb4b1158::t_73503f2e3bd794 14,16,18,467,581,598
+tests/test_copilot_hook.py
+  s_152842eb4b1158::t_73503f2e3bd794 42
+tests/test_transcript_roots.py
+  s_152842eb4b1158::t_73503f2e3bd794 246,258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "1b97759411aab935c27e08b30a7be7307acc729e",
+  "prompts": {},
+  "sessions": {
+    "s_152842eb4b1158": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb99b79c-52f1-4075-8951-c22bfa0f1aab",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
