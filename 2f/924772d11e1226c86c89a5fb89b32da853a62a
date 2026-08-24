@@ -1,0 +1,27 @@
+tests/test_hook_output_channels.py
+  s_152842eb4b1158::t_e9f31bacd32373 16,117,144
+tests/test_copilot_hook.py
+  s_152842eb4b1158::t_e9f31bacd32373 41
+tests/test_hook_steering_fixes.py
+  s_152842eb4b1158::t_529e0358243d94 221
+  s_152842eb4b1158::t_2b682a04d1b766 304-369
+  s_152842eb4b1158::t_8f96a0d16ad116 162-170,193-207,216-220,424-438,520-532,561-571,586-590,595,598-601
+tests/test_hooks.py
+  s_152842eb4b1158::t_e9f31bacd32373 467
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "2f924772d11e1226c86c89a5fb89b32da853a62a",
+  "prompts": {},
+  "sessions": {
+    "s_152842eb4b1158": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb99b79c-52f1-4075-8951-c22bfa0f1aab",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
