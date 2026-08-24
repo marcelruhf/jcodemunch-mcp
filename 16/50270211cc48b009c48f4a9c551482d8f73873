@@ -1,0 +1,19 @@
+tests/test_install_copilot_hooks.py
+  s_152842eb4b1158::t_2fd409d2d4ea29 28-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "1650270211cc48b009c48f4a9c551482d8f73873",
+  "prompts": {},
+  "sessions": {
+    "s_152842eb4b1158": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb99b79c-52f1-4075-8951-c22bfa0f1aab",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Marcel Ruhf <2291256+marcelruhf@users.noreply.github.com>"
+    }
+  }
+}
