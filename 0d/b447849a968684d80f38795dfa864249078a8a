@@ -1,0 +1,23 @@
+src/jcodemunch_mcp/cli/hooks/_common.py
+  s_152842eb4b1158::t_f87b973aba39bb 74,206
+src/jcodemunch_mcp/cli/hooks/snapshot.py
+  s_152842eb4b1158::t_c3037c1661042b 3-4
+  s_152842eb4b1158::t_60099c3120ac60 12-13
+  s_152842eb4b1158::t_f87b973aba39bb 36,47,61-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "0db447849a968684d80f38795dfa864249078a8a",
+  "prompts": {},
+  "sessions": {
+    "s_152842eb4b1158": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eb99b79c-52f1-4075-8951-c22bfa0f1aab",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
